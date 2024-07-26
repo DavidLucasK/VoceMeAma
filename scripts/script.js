@@ -40,7 +40,8 @@ const noTexts = [
     "Que isso",
     "Sai fora",
     "Desviei hihi",
-    "Você não me pega"
+    "Você não me pega",
+    "Sai Juju carente"
 ]
 
 let audioAtual = null;
