@@ -37,6 +37,22 @@ h2 {
     cursor: pointer;
 }
 
+p {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  width: 300px;
+  transform: translateX(-50%);
+  color: white;
+  font-weight: 600;
+  opacity: 0;
+  cursor: pointer;
+}
+
+p:hover {
+  opacity: 1;
+}
+
 @keyframes gradient {
     0% {
       background-position: 0 50%;
